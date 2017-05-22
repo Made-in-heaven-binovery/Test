@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">CountrySelector</string>
+    <string name="title_activity_show_info_country">ShowInfoCountry</string>
+</resources>
